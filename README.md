@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic Computer Science Student with track record of success in Design Field. Eager to leverage<br>my skills in MERN stack development and AI Technology. seeking an entry-level position that allows for<br>professional growth and the application of academic knowledge in real-world scenarios.<br>
+Enthusiastic Computer Science Engineer with track record of success in Design Field. Eager to leverage<br>my skills in MERN stack development and AI Technology. passionate about technology that allowsfor<br>professional growth and the application of academic knowledge in real-world scenarios.<br>
 
 
 ## 🌐 Socials:
